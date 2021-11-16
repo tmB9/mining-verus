@@ -1,0 +1,2 @@
+# mining-verus
+verus miner
